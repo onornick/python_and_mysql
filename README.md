@@ -1,6 +1,6 @@
-##Python and MySQL practice
+## Python and MySQL practice
 
-###Topics covered are
+### Topics covered are
  
 * Opening
 * Introduction
